@@ -6,7 +6,7 @@ Como dito antes, me chamo Felipe. Sou uma pessoa do genero masculino com 17 anos
 Sou da Bahia e pretendo, no futuro, me tornar um excelentíssimo Game Dev.
  
 
-## Tools $ technologies
+## Tools & technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/> 
 
 ## I'm Learning...
